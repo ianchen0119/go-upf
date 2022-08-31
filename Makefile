@@ -40,4 +40,3 @@ $(BUILD_PATH)/$(CFG_PATH)/$(NF_CFG_FILE): $(CFG_PATH)/$(NF_CFG_FILE)
 
 clean:
 	rm -rf $(BUILD_PATH)
-
